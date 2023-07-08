@@ -51,9 +51,9 @@ body {
     border: 2px solid white;
     box-sizing: border-box;
     cursor: pointer;
-    height: 60px; /* Add a specific height for the grid cells */
-    padding: 5px; /* Adjust the padding as needed */
-    margin: 1px; /* Adjust the margin as needed */
+    height: 60px; 
+    padding: 5px; 
+    margin: 1px; 
   }
   
   
@@ -73,14 +73,14 @@ body {
   color: #fff;
   font-weight: bold;
   background-color: #538fbe;
-  padding: 10px 20px; /* Adjust the padding as needed */
+  padding: 10px 20px; 
   font-size: 24px;
   border: none;
   box-shadow: 0px 1px 0px rgba(255, 255, 255, .3);
   margin-right: 10px;
   margin-top: 20px;
   cursor: pointer;
-  transition: background-color 0.3s ease; /* Add a smooth transition */
+  transition: background-color 0.3s ease; 
 }
 
 #GetPuzzle:hover,
